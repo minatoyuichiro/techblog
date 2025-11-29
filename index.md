@@ -1,11 +1,8 @@
 ---
 layout: home
-title: "Minato Tech Blog"
+title: "Quantum AI Blog"
 ---
 
-# Minato Tech Blog  
-量子コンピュータ × GPU × AI の技術ブログへようこそ。
+量子コンピュータ × AI の技術ブログへようこそ。
 
 Hello and welcome to my technical blog!
-
-以下に最新の記事が表示されます。
