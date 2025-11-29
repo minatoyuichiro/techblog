@@ -1,8 +1,7 @@
-title: "Minato Tech Blog"
-description: "量子計算 × GPU × AI 技術ブログ"
+title: "Quantum AI Blog"
+description: "Quantum x AI"
 theme: minima
 
-# GitHub Pages で必須の設定
 markdown: kramdown
 kramdown:
   input: GFM
