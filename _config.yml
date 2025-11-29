@@ -1,17 +1,14 @@
 title: "Minato Tech Blog"
-description: "Quantum and Machine Learning"
+description: "量子計算 × GPU × AI 技術ブログ"
 theme: minima
 
+# GitHub Pages で必須の設定
 markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# MathJax
-mathjax: true
-
-# GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
