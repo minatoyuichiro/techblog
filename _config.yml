@@ -1,0 +1,17 @@
+title: "Minato Tech Blog"
+description: "Quantum and Machine Learning"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# MathJax
+mathjax: true
+
+# GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
